@@ -1,0 +1,1 @@
+/home/visionx/lab/lab6/v3dmean.c

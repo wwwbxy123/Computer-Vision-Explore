@@ -1,0 +1,65 @@
+vboundary if=01inv.vx of=01b.vx
+vboundary if=02inv.vx of=02b.vx
+vboundary if=03inv.vx of=03b.vx
+vboundary if=04inv.vx of=04b.vx
+vboundary if=05inv.vx of=05b.vx
+vboundary if=11inv.vx of=11b.vx
+vboundary if=12inv.vx of=12b.vx
+vboundary if=13inv.vx of=13b.vx
+vboundary if=14inv.vx of=14b.vx
+vboundary if=15inv.vx of=15b.vx
+vboundary if=21inv.vx of=21b.vx
+vboundary if=22inv.vx of=22b.vx
+vboundary if=23inv.vx of=23b.vx
+vboundary if=24inv.vx of=24b.vx
+vboundary if=25inv.vx of=25b.vx
+vboundary if=31inv.vx of=31b.vx
+vboundary if=32inv.vx of=32b.vx
+vboundary if=33inv.vx of=33b.vx
+vboundary if=34inv.vx of=34b.vx
+vboundary if=35inv.vx of=35b.vx
+vboundary if=41inv.vx of=41b.vx
+vboundary if=42inv.vx of=42b.vx
+vboundary if=43inv.vx of=43b.vx
+vboundary if=44inv.vx of=44b.vx
+vboundary if=45inv.vx of=45b.vx
+vboundary if=51inv.vx of=51b.vx
+vboundary if=52inv.vx of=52b.vx
+vboundary if=53inv.vx of=53b.vx
+vboundary if=54inv.vx of=54b.vx
+vboundary if=55inv.vx of=55b.vx
+vboundary if=61inv.vx of=61b.vx
+vboundary if=62inv.vx of=62b.vx
+vboundary if=63inv.vx of=63b.vx
+vboundary if=64inv.vx of=64b.vx
+vboundary if=65inv.vx of=65b.vx
+vboundary if=71inv.vx of=71b.vx
+vboundary if=72inv.vx of=72b.vx
+vboundary if=73inv.vx of=73b.vx
+vboundary if=74inv.vx of=74b.vx
+vboundary if=75inv.vx of=75b.vx
+vboundary if=81inv.vx of=81b.vx
+vboundary if=82inv.vx of=82b.vx
+vboundary if=83inv.vx of=83b.vx
+vboundary if=84inv.vx of=84b.vx
+vboundary if=85inv.vx of=85b.vx
+vboundary if=91inv.vx of=91b.vx
+vboundary if=92inv.vx of=92b.vx
+vboundary if=93inv.vx of=93b.vx
+vboundary if=94inv.vx of=94b.vx
+vboundary if=95inv.vx of=95b.vx
+vboundary if=ainv.vx of=ab.vx
+vboundary if=carinv.vx of=carb.vx
+vboundary if=einv.vx of=eb.vx
+vboundary if=hillinv.vx of=hillb.vx
+vboundary if=houseinv.vx of=houseb.vx
+vboundary if=magicinv.vx of=magicb.vx
+vboundary if=mailinv.vx of=mailb.vx
+vboundary if=phoneinv.vx of=phoneb.vx
+vboundary if=triangelinv.vx of=triangelb.vx
+vboundary if=yinv.vx of=yb.vx
+
+
+
+
+

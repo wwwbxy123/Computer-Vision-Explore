@@ -1,0 +1,65 @@
+vcom if=01th.vx of=01com.vx
+vcom if=02th.vx of=02com.vx
+vcom if=03th.vx of=03com.vx
+vcom if=04th.vx of=04com.vx
+vcom if=05th.vx of=05com.vx
+vcom if=11th.vx of=11com.vx
+vcom if=12th.vx of=12com.vx
+vcom if=13th.vx of=13com.vx
+vcom if=14th.vx of=14com.vx
+vcom if=15th.vx of=15com.vx
+vcom if=21th.vx of=21com.vx
+vcom if=22th.vx of=22com.vx
+vcom if=23th.vx of=23com.vx
+vcom if=24th.vx of=24com.vx
+vcom if=25th.vx of=25com.vx
+vcom if=31th.vx of=31com.vx
+vcom if=32th.vx of=32com.vx
+vcom if=33th.vx of=33com.vx
+vcom if=34th.vx of=34com.vx
+vcom if=35th.vx of=35com.vx
+vcom if=41th.vx of=41com.vx
+vcom if=42th.vx of=42com.vx
+vcom if=43th.vx of=43com.vx
+vcom if=44th.vx of=44com.vx
+vcom if=45th.vx of=45com.vx
+vcom if=51th.vx of=51com.vx
+vcom if=52th.vx of=52com.vx
+vcom if=53th.vx of=53com.vx
+vcom if=54th.vx of=54com.vx
+vcom if=55th.vx of=55com.vx
+vcom if=61th.vx of=61com.vx
+vcom if=62th.vx of=62com.vx
+vcom if=63th.vx of=63com.vx
+vcom if=64th.vx of=64com.vx
+vcom if=65th.vx of=65com.vx
+vcom if=71th.vx of=71com.vx
+vcom if=72th.vx of=72com.vx
+vcom if=73th.vx of=73com.vx
+vcom if=74th.vx of=74com.vx
+vcom if=75th.vx of=75com.vx
+vcom if=81th.vx of=81com.vx
+vcom if=82th.vx of=82com.vx
+vcom if=83th.vx of=83com.vx
+vcom if=84th.vx of=84com.vx
+vcom if=85th.vx of=85com.vx
+vcom if=91th.vx of=91com.vx
+vcom if=92th.vx of=92com.vx
+vcom if=93th.vx of=93com.vx
+vcom if=94th.vx of=94com.vx
+vcom if=95th.vx of=95com.vx
+vcom if=a.vx of=acom.vx
+vcom if=car.vx of=carcom.vx
+vcom if=e.vx of=ecom.vx
+vcom if=hill.vx of=hillcom.vx
+vcom if=house.vx of=housecom.vx
+vcom if=magic.vx of=magiccom.vx
+vcom if=mail.vx of=mailcom.vx
+vcom if=phone.vx of=phonecom.vx
+vcom if=triangel.vx of=triangelcom.vx
+vcom if=y.vx of=ycom.vx
+
+
+
+
+

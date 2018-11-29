@@ -1,0 +1,62 @@
+vimag s=20,20,1 -i if=01th.vx of=01th.vx
+vimag s=20,20,1 -i if=02th.vx of=02th.vx
+vimag s=20,20,1 -i if=03th.vx of=03th.vx
+vimag s=20,20,1 -i if=04th.vx of=04th.vx
+vimag s=20,20,1 -i if=05th.vx of=05th.vx
+vimag s=20,20,1 -i if=11th.vx of=11th.vx
+vimag s=20,20,1 -i if=12th.vx of=12th.vx
+vimag s=20,20,1 -i if=13th.vx of=13th.vx
+vimag s=20,20,1 -i if=14th.vx of=14th.vx
+vimag s=20,20,1 -i if=15th.vx of=15th.vx
+vimag if=21th.vx of=21th.vx
+vimag if=22th.vx of=22th.vx
+vimag if=23th.vx of=23th.vx
+vimag if=24th.vx of=24th.vx
+vimag if=25th.vx of=25th.vx
+vimag if=31th.vx of=31th.vx
+vimag if=32th.vx of=32th.vx
+vimag if=33th.vx of=33th.vx
+vimag if=34th.vx of=34th.vx
+vimag if=35th.vx of=35th.vx
+vimag if=41th.vx of=41th.vx
+vimag if=42th.vx of=42th.vx
+vimag if=43th.vx of=43th.vx
+vimag if=44th.vx of=44th.vx
+vimag if=45th.vx of=45th.vx
+vimag if=51th.vx of=51th.vx
+vimag if=52th.vx of=52th.vx
+vimag if=53th.vx of=53th.vx
+vimag if=54th.vx of=54th.vx
+vimag if=55th.vx of=55th.vx
+vimag if=61th.vx of=61th.vx
+vimag if=62th.vx of=62th.vx
+vimag if=63th.vx of=63th.vx
+vimag if=64th.vx of=64th.vx
+vimag if=65th.vx of=65th.vx
+vimag if=71th.vx of=71th.vx
+vimag if=72th.vx of=72th.vx
+vimag if=73th.vx of=73th.vx
+vimag if=74th.vx of=74th.vx
+vimag if=75th.vx of=75th.vx
+vimag if=81th.vx of=81th.vx
+vimag if=82th.vx of=82th.vx
+vimag if=83th.vx of=83th.vx
+vimag if=84th.vx of=84th.vx
+vimag if=85th.vx of=85th.vx
+vimag if=91th.vx of=91th.vx
+vimag if=92th.vx of=92th.vx
+vimag if=93th.vx of=93th.vx
+vimag if=94th.vx of=94th.vx
+vimag if=95th.vx of=95th.vx
+vimag if=ath.vx of=a.vx
+vimag if=carth.vx of=car.vx
+vimag if=eth.vx of=e.vx
+vimag if=hill.vx of=hill.vx
+vimag if=house.vx of=house.vx
+vimag if=magic.vx of=magic.vx
+vimag if=mail.vx of=mail.vx
+vimag if=phone.vx of=phone.vx
+vimag if=triangel.vx of=triangel.vx
+vimag if=y.vx of=y.vx
+
+
